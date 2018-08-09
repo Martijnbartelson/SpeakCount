@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_29709fd4ff46b80a8b86b878993d9dbee4a56236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0_7a8c1c851fff99fd21ef61b6abdea1edd5c83c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.0_056a3d65d88da5b0f2cadc5351cea001c643c325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6e88e297952f3c2da39ad92526ac27ccee288e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_8c61b6a12d5026cdd0d336cd4e4df07e4892ddfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5ae699a0cdd4f2920ad1e8b32af1a741bc38f908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1012f353f5b3c0d706dc0c08e25e0f50f93225dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e64f1c4925a723f184c95d45222176011b8b35d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_878c4ea917674f2e3b5ba4154087deadafbff010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_542db49254b4cddc19d2955794e113148a153056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_24d573e6f61d07903f8dc9cf57057978bbe2d231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0_7d16984675aa936530656ff5b79e8b2a73da95bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d33fb621fa027f91fe522f98ee0cba6a233b51af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_16ba3fbc2e10090db8f8d99ffc88195a6b45b295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f83f6bec7ff00d49e0d83247cdb093fb96add7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/SpeakCount/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9cc7a2da48c79bed88c12caab128e636287ba060">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/SpeakCount-react-native-svg-unspecified_1db32d705f08e9a433fd68feab2bce35efea8399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_4de6e5a18ad84633ebcb4dbd9c70044cae7fbaed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0da3b66a1909748a215cb19f4e5400b4d62bef2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_ef92e2ee3f891444da05cbd861def0b9afb80106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6f522d8849f51a46d9ce6d20a4ef9180137e4dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_841370776c986a2805d1403e15151ee4131f1314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_41c4b79a38989c9047d6c37517ee4db3dc20b86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/exploded-aar/SpeakCount/react-native-sound-level/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eb60272c3665cb031d8bece4c54e939cf75177d6">
+        <dex dex="/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/pre-dexed/debug/SpeakCount-react-native-sound-level-unspecified_75327c1c1008910496cb01f3e3058c0e6859c7f7.jar" />
+    </item>
+
+</items>

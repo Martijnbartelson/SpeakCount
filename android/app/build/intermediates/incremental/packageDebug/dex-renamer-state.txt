@@ -1,0 +1,4 @@
+#Thu Aug 02 14:54:55 CEST 2018
+base.0=/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/christophesnacken/Documents/Codaisseur/SpeakCountFinal/SpeakCount-nativeClient/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
