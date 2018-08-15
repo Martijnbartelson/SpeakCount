@@ -10,7 +10,7 @@ You can automaticaly link with the following: react-native link react-native-svg
 - For the Universtity of Twente: You can import the react native app to X-Code and Android Studio to deploy it on the app store.
 
 
-SpeakCount is created for the University of Twente. Thanks to the algorithm on the server side you can compare the peaking time of each individual in a meeting in order to optimize the quality of a meeting. 
+SpeakCount is created for the University of Twente. Thanks to the algorithm on the server side you can compare the speaking time of each individual in a meeting in order to optimize the quality of a meeting. 
 
 This project will be used as a case study at the university of Twente an even might be used for a PHD project.
 
